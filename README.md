@@ -9,4 +9,4 @@ This repository contains models and code for classifying sentence types and iden
 
 ## Features
 - Sentence Type Classification: A model trained to classify sentences into various types based on their content and structure.
-- Sentence Structure Classification: A model that identifies and classifies clauses within sentences, providing indices and types for each clause.
+- Sentence Structure Classification: A model that identifies and classifies sentence structure (simple, compound, complex, compound-complex).
